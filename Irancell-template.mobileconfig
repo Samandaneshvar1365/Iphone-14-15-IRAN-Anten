@@ -35,7 +35,7 @@
 				<string>Cellular</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.cellular.364E3CC3-F3CA-4936-9038-C6E556F0247D</string>
-				<key>PayloadType</key>
+				<key>Pay
 				<string>com.apple.cellular</string>
 				<key>PayloadUUID</key>
 				<string>4e4a565a-5483-4a9b-b9af-1976068b5af3</string>
