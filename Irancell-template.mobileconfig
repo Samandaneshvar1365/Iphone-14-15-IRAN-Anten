@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
@@ -32,7 +32,7 @@
 				<key>PayloadDescription</key>
 				<string>Configures cellular data settings</string>
 				<key>PayloadDisplayName</key>
-				<string>Cellular</
+				<string>Cellular</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.cellular.364E3CC3-F3CA-4936-9038-C6E556F0247D</string>
 				<key>PayloadType</key>
@@ -54,7 +54,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>3be49d14-fb7b-4dbc-a9d3-737786055ad5</string>
+		<string>fa3f7c7a-e0ff-4a3d-b89c-ca51fbcac08d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
